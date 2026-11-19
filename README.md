@@ -6,6 +6,6 @@ For xmms the skins need to placed in ~/.xmms/Skins
 
 For qmmp the skins need to placed in ~/.config/qmmp/skins
 
-For more skins checkout:[webamp](https://skins.webamp.org/)
+For more skins checkout: [webamp](https://skins.webamp.org/)
 
 
